@@ -3,7 +3,7 @@
 ### What is Internet.nl?
 
 Internet.nl helps you to check whether your internet is up to date. 
-Does your website, email and internet connection use modern and reliable Internet Standards? And if they don't, what can you do about it?
+Do your website, email and internet connection use modern and reliable Internet Standards? And if they don't, what can you do about it?
 
 ### Who is behind Internet.nl?
 
