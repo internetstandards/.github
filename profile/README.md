@@ -12,4 +12,3 @@ Internet.nl is an initiative of the Dutch Internet Standards Platform. The aim o
 ### Follow us on:
 - <a rel="me" href="https://mastodon.nl/@internet_nl">Mastodon</a>
 - [LinkedIn](https://www.linkedin.com/company/internet-nl/)
-- [Twitter](https://twitter.com/internet_nl)
